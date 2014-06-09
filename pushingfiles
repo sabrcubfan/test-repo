@@ -1,0 +1,21 @@
+1.  Get to correct directory
+
+2.  git clone {repo website}
+
+3.  cd {what repo is called}
+
+4.  git remote -v  #created origin
+
+5.  touch {text file}  #creating a new text file
+
+6.  Go into new text file and make changes
+
+7.  git add .  #can use git status
+
+8.  git commit -m "message"
+
+9.  git log  #to see summary
+
+10.  git push origin master  #pushes file(s) on Github
+
+Note:  git status  #throughtout to see status
